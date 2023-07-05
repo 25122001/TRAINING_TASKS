@@ -1,0 +1,15 @@
+https://www.youtube.com/watch?v=T6rElSLldyc
+
+
+
+
+
+
+
+https://www.w3schools.com/nodejs/nodejs_email.asp
+
+Single Receivers
+
+Multiple Receivers
+
+Send with HTML
